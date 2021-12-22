@@ -1,0 +1,26 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2021-11-10 17:19:14
+  From session:  untitled session
+  Captured on:  2021-11-10 17:16:39
+  From server:  CloudSut1
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "image0005"
+TypeText Return
+TypeText "ajio"
+TypeText ".com",Return
+Click "SearchAJIO_0003"
+TypeText DownArrow
+TypeText DownArrow,Return
+Click "image0006"
+Click "image0007"
+Click "image0008"
+Click "image0009"
+Click "image0010"
+MoveTo "image0011"
+ScrollWheelDown 2.0
+MoveTo "image0012"
+ScrollWheelDown 1.0
+MoveTo "image0013"
+ScrollWheelDown 1.0
+Click "image0014"
